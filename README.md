@@ -52,7 +52,8 @@ Given a clusterId and 10 minute time interval we want to predict the number of p
     | Best baseline model           | 0.14181921176402132 |  
     | Linear Regression             | 0.1423244522314819  |           
     | Random Forest Regression      | 0.13992726971245978 |           
-    | XgBoost Regression            | 0.13930527439102075 |           
+    | XgBoost Regression            | 0.12892533707457116 |
+    | Dobule Expo Smoothing         | 0.11753915505174322 |          
 
 ## Interesting Plots
 
